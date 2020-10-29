@@ -1,0 +1,27 @@
+.homohikka
+{
+    width: 50%;
+    height: 50%;
+    align-self: left;
+}
+
+.main
+{
+    background-color: #cce2e1;
+    /*border-radius: 1em;*/
+    border-width: 3px;
+    padding-left: 9px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: 2px auto;
+    width: 670px;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.75);*/
+}
+
+body
+{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16pt;
+    background-color: #566a89;
+}

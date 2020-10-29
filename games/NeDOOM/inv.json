@@ -1,0 +1,58 @@
+{
+	"id_1" :
+	{
+		"name" : "Bumblebee",
+		"line" : 3,
+		"desc1" : "Common guard`s pistol. Has infinite AMMO, but also has low damage and high rate of fire.",
+		"desc2" : "",
+		"desc3" : "Float like a butterfly, sting like the genius."
+	},
+	"id_2" :
+	{
+		"name" : "Cola",
+		"line" : 3,
+		"desc1" : "Tasty galaxy cola! Restores few Health Points",
+		"desc2" : "",
+		"desc3" : "Side effects: dizziness, nausea, hallucinations, hemorrhoids, cancer, death."
+	},
+	"id_3" :
+	{
+		"name" : "Laser}Rifle",
+		"line" : 3,
+		"desc1" : "Rifle that has megacool red laser! High damage and piercing effect!",
+		"desc2" : "",
+		"desc3" : "WARNING! Don`t use with mirrors!"
+	},
+	"id_4" :
+	{
+		"name" : "Shotgun",
+		"line" : 3,
+		"desc1" : "Ultra High damage at short range, but low at long.",
+		"desc2" : "",
+		"desc3" : "*Heavy metal plays*"
+	},
+	"id_5" :
+	{
+		"name" : "Minigun",
+		"line" : 3,
+		"desc1" : "With this you are angel of death! Middle damage, but very high rate of fire.",
+		"desc2" : "",
+		"desc3" : "A-TA-TA-TA-TA-TA-TA-TA-TA! (C) Kenshiro"
+	},
+	"id_6" :
+	{
+		"name" : "Medkit",
+		"line" : 3,
+		"desc1" : "Restores many Health Points.",
+		"desc2" : "",
+		"desc3" : "They still have not gotten rid of injections."
+	},
+	"id_7" :
+	{
+		"name" : "Rifle}AMMO"
+	},
+	"id_8" :
+	{
+		"name" : "Shotgun}AMMO"
+	}
+}
